@@ -1,0 +1,7 @@
+/* Estilos para el elemento div con la clase "mi-div" */
+.mi-div {
+    color: red; /* Cambia el color del texto a rojo */
+    font-size: 20px; /* Cambia el tamaño del texto a 20px */
+    background-color: lightblue; /* Cambia el color de fondo a azul claro */
+    padding: 10px; /* Añade un espacio de 10px alrededor del contenido del div */
+}
